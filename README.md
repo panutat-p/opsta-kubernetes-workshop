@@ -1,15 +1,9 @@
-# Skooldio Kubernetes Workshop
+# opsta-kubernetes-workshop
 
-This tutorial walks you through to Kubernetes Workshop
-
-## Copyright
-
-Opsta Education Co.,Ltd.
+## Resources
+https://drive.google.com/file/d/1LV662UyNwQDLTWMPLravbyFEhePTs7ZE/view
 
 ## Workshop
-
-This tutorial assumes that you learned all about Kubernetes basic theory and know about how Bookinfo Application working.
-
 * [Prerequisites and Preparation](docs/01-prerequisites.md)
 * [Kubernetes Command Line Workshop](docs/02-k8s-cli.md)
 * [Kubernetes Manifest Files Workshop](docs/03-k8s-manifest.md)
