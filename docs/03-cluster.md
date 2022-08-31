@@ -29,6 +29,8 @@ kubectl describe deployment nginx
 kubectl expose deployment nginx --type LoadBalancer --port 80
 # Wait to see public ip to be active and test it
 kubectl get services -w
+
+curl 35.247.183.251:80
 ```
 
 ## Scale service and change docker image
