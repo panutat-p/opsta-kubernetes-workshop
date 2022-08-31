@@ -1,5 +1,3 @@
-# Kubernetes Manifest Files Workshop
-
 ## Deploy Pod with Manifest File
 
 * `mkdir ~/k8s` to create folder for Kubernetes Manifest File
@@ -122,5 +120,3 @@ kubectl delete pod busybox
 # Check if any pods left
 kubectl get pod
 ```
-
-Next: [Deploy Bookinfo Rating Service on Kubernetes](04-k8s-rating.md)
